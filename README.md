@@ -16,7 +16,7 @@ This repository implements the **Light Graph Convolutional Network (LightGCN)** 
 ## 📊 Results
 Below is the model performance over **30 epochs**:
 
-![Result Plot](./result.png)
+![Result Plot](https://github.com/user-attachments/assets/8ef2681b-2dd2-42e6-bf5d-2ffb75e15800)
 
 - **Metrics Evaluated**:  
   - **Recall@20**  
